@@ -8,7 +8,9 @@ while Loop and for Loop Practice
 The following 3 problems will be uploaded to GitHub.
 
 Problem #1 – Name the file WhileLoopGuessNumber.java
+
 Problem #2 – Name the file WhileLoopAddIntegers.java
+
 Problem #3 – Name the file ForLoopBlackjack.java
 
 1. While Loop Program: Write a program that picks a random number from 1-100 (Look up how to
